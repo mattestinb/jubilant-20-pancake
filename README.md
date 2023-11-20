@@ -9,6 +9,11 @@
 - [Tests](#tests)
 - [License](#license)
 
+
+## Live Deployment
+Netlify
+[View Live Link](https://cheery-empanada-021f08.netlify.app)
+
 ## Description
 The project entailed developing a portfolio website using React, showcasing personal or professional work. This React-based portfolio is dynamic, featuring a modern, responsive design that adapts to different devices. It highlights projects, skills, and experiences, leveraging React's component-based architecture for efficient updates and maintenance. This portfolio serves as an interactive and engaging platform for showcasing achievements and talents.
 
